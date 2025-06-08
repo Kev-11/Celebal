@@ -1,6 +1,6 @@
 # 💼 Celebal Tech Internship - Assignment Repository
 
-This repository contains tasks and assignments completed during my internship at **Celebal Tech**.
+This repository contains tasks and assignments completed during my internship at [**Celebal Tech**](https://celebaltech.com/).
 
 ---
 
