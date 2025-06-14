@@ -13,7 +13,12 @@ This repository contains tasks and assignments completed during my internship at
     - Centered Pyramid Pattern  
   - Focused on control flow, nested loops, and pattern logic
 
-- **Weeks 2 – 8**: 🔜 To be added as they are assigned
+- **Week 2**: ✅ Completed  
+  - Implemented a singly linked list from scratch
+  - Developed methods for insertion, deletion (with exception handling), and traversal
+  - Applied class-based object-oriented programming concepts in Python
+
+- **Weeks 3 – 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -33,6 +38,9 @@ Celebal/
 ├── Week-1/
 │   ├── Assignment_description.md
 │   └── Assignment-1.py
+├── Week-2/
+│   ├── Assignment_description.md
+│   └── Assignment_2.py
 └── README.md
 ```
 
@@ -45,4 +53,4 @@ Celebal/
 
 ---
 
-> 🗂 *This repository documents my learning and contributions during the internship, beginning with basic Python pattern problems in Week 1.*
+> 🗂 *This repository documents my learning and contributions during the internship, beginning with basic Python pattern problems and progressing to data structures like linked lists.*
