@@ -18,7 +18,12 @@ This repository contains tasks and assignments completed during my internship at
   - Developed methods for insertion, deletion (with exception handling), and traversal
   - Applied class-based object-oriented programming concepts in Python
 
-- **Weeks 3 – 8**: 🔜 To be added as they are assigned
+- **Week 3**: ✅ Completed  
+  - Performed Exploratory Data Analysis (EDA) on Autism Spectrum Disorder (ASD) dataset
+  - Visualized patterns using Seaborn and Matplotlib
+  - Cleaned and encoded data using pandas and LabelEncoder
+  
+- **Weeks 4 – 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -41,6 +46,10 @@ Celebal/
 ├── Week-2/
 │   ├── Assignment_description.md
 │   └── Assignment_2.py
+├── Week-3/
+│ ├── Assignment_description_Week3.md
+│ ├── model.ipynb
+│ └── Dataset/
 └── README.md
 ```
 
@@ -53,4 +62,4 @@ Celebal/
 
 ---
 
-> 🗂 *This repository documents my learning and contributions during the internship, beginning with basic Python pattern problems and progressing to data structures like linked lists.*
+> 🗂 *This repository documents my learning and contributions during the internship, beginning with basic Python pattern problems and progressing to data structures and data analysis projects.*
