@@ -22,8 +22,12 @@ This repository contains tasks and assignments completed during my internship at
   - Performed Exploratory Data Analysis (EDA) on Autism Spectrum Disorder (ASD) dataset
   - Visualized patterns using Seaborn and Matplotlib
   - Cleaned and encoded data using pandas and LabelEncoder
+
+- **Week 4**: ✅ Completed  
+  - Performed Exploratory Data Analysis (EDA) on Autism Spectrum Disorder (ASD) dataset
+  - Cleaned and encoded data using pandas and LabelEncoder
   
-- **Weeks 4 – 8**: 🔜 To be added as they are assigned
+- **Weeks 5 – 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -47,7 +51,11 @@ Celebal/
 │   ├── Assignment_description.md
 │   └── Assignment_2.py
 ├── Week-3/
-│ ├── Assignment_description_Week3.md
+│ ├── Assignment_description.md
+│ ├── model.ipynb
+│ └── Dataset/
+├── Week-4/
+│ ├── Assignment_description.md
 │ ├── model.ipynb
 │ └── Dataset/
 └── README.md
