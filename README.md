@@ -26,8 +26,14 @@ This repository contains tasks and assignments completed during my internship at
 - **Week 4**: ✅ Completed  
   - Performed Exploratory Data Analysis (EDA) on Autism Spectrum Disorder (ASD) dataset
   - Cleaned and encoded data using pandas and LabelEncoder
+    
+- **Week 5**: ✅ Completed  
+  - Performed regression using xgboost on the house price predicition dataset.
+  - Visualized patterns using Seaborn and Matplotlib
+  - Performed EDA and Feature engineering on the dataset.
+  - Made a submission.csv for submission.
   
-- **Weeks 5 – 8**: 🔜 To be added as they are assigned
+- **Weeks 6 – 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -57,6 +63,11 @@ Celebal/
 ├── Week-4/
 │ ├── Assignment_description.md
 │ ├── model.ipynb
+│ └── Dataset/
+├── Week-5/
+│ ├── Assignment_description.md
+│ ├── model.ipynb
+│ ├── submission.csv
 │ └── Dataset/
 └── README.md
 ```
