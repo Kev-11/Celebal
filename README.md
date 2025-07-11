@@ -33,7 +33,12 @@ This repository contains tasks and assignments completed during my internship at
   - Performed EDA and Feature engineering on the dataset.
   - Made a submission.csv for submission.
   
-- **Weeks 6 – 8**: 🔜 To be added as they are assigned
+- **Week 6**: ✅ Completed  
+  - Trained and evaluated multiple classification models (Logistic Regression, SVM, RF, etc.)
+  - Used accuracy, precision, recall, F1-score for comparison
+  - Applied GridSearchCV and RandomizedSearchCV for hyperparameter tuning
+
+- **Weeks 7 – 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -69,6 +74,9 @@ Celebal/
 │ ├── model.ipynb
 │ ├── submission.csv
 │ └── Dataset/
+├── Week-6/
+│   ├── Assignment_description.md
+│   └── model.ipynb
 └── README.md
 ```
 
