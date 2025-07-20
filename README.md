@@ -38,7 +38,12 @@ This repository contains tasks and assignments completed during my internship at
   - Used accuracy, precision, recall, F1-score for comparison
   - Applied GridSearchCV and RandomizedSearchCV for hyperparameter tuning
 
-- **Weeks 7 – 8**: 🔜 To be added as they are assigned
+- **Week 7**: ✅ Completed  
+  - Built a Streamlit web app to deploy a trained ML model
+  - Took user input, displayed predictions, and visualized results
+  - Structured app with interactive components and optional cloud deployment
+    
+- **Week 8**: 🔜 To be added as they are assigned
 
 ---
 
@@ -77,6 +82,13 @@ Celebal/
 ├── Week-6/
 │   ├── Assignment_description.md
 │   └── model.ipynb
+├── Week-7/
+│ ├── Assignment_description.md
+│ ├── streamlit_app.py
+│ ├── best_model.pkl
+│ ├── encoders.pkl
+│ ├── requirements.txt
+│ └── datasets/
 └── README.md
 ```
 
@@ -89,4 +101,4 @@ Celebal/
 
 ---
 
-> 🗂 *This repository documents my learning and contributions during the internship, beginning with basic Python pattern problems and progressing to data structures and data analysis projects.*
+> 🗂 *This repository documents my learning and contributions during the internship, covering everything from pattern printing and data structures to full-stack ML model deployment.*
