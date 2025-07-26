@@ -43,7 +43,9 @@ This repository contains tasks and assignments completed during my internship at
   - Took user input, displayed predictions, and visualized results
   - Structured app with interactive components and optional cloud deployment
     
-- **Week 8**: 🔜 To be added as they are assigned
+- **Week 8**: ✅ Completed  
+  - Built a RAG-based chatbot using document embeddings and a generative model
+  - Used vector databases for retrieval and Hugging Face/OpenAI for generation
 
 ---
 
@@ -51,7 +53,9 @@ This repository contains tasks and assignments completed during my internship at
 
 - Python 3.x
 - Jupyter Notebook / IDEs
-- MySQL
+- Streamlit / Gradio
+- FAISS / ChromaDB
+- Hugging Face / OpenAI
 - Git & GitHub
 
 ---
@@ -89,6 +93,17 @@ Celebal/
 │ ├── encoders.pkl
 │ ├── requirements.txt
 │ └── datasets/
+├── Week-8/
+│   ├── Assignment_description.md
+│   ├── rag_chain.py
+│   ├── requirements.txt
+│   ├── generator.py
+│   ├── retriever.py
+│   ├── main.py
+│   ├── Readme.md
+│   ├── Training Dataset.csv
+│   ├── vectorstor.py
+│   └── embedder.py
 └── README.md
 ```
 
@@ -101,4 +116,4 @@ Celebal/
 
 ---
 
-> 🗂 *This repository documents my learning and contributions during the internship, covering everything from pattern printing and data structures to full-stack ML model deployment.*
+> 🗂 *This repository documents my learning and contributions during the internship, covering everything from basic Python to advanced machine learning deployment and AI applications.*
