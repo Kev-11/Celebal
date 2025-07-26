@@ -102,7 +102,7 @@ Celebal/
 │   ├── main.py
 │   ├── Readme.md
 │   ├── Training Dataset.csv
-│   ├── vectorstor.py
+│   ├── vectorstore.py
 │   └── embedder.py
 └── README.md
 ```
